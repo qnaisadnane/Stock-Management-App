@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072175096567",
+    "project_id": "ocp-agri-app",
+    "storage_bucket": "ocp-agri-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072175096567:android:e319cba8bc05ec73d6a9f2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAFBuRspu-X8yRRGHkztNjTdyHiPTW0EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
