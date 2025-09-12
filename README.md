@@ -11,4 +11,4 @@ This application allows you to manage a company's industrial stock, it allows yo
    ![Image Alt](https://github.com/qnaisadnane/Stock-Management-App/blob/bf1055c5e748a48d8badb367c0934845de21e478/5.png)
     ![Image Alt](https://github.com/qnaisadnane/Stock-Management-App/blob/ed92ab28be91fb484e22b5631db4d18357d03862/6.png)
      ![Image Alt](https://github.com/qnaisadnane/Stock-Management-App/blob/f1667273c02f5906f44c223775e55c50cefc94b2/7.png)
-      ![Image Alt](image_url)
+      ![Image Alt](https://github.com/qnaisadnane/Stock-Management-App/blob/fb45ef18da3b664afd5a2f1c60a3fdda04e4beb9/8.png)
