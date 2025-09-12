@@ -1,16 +1,7 @@
-# flutter_application_1
+# Stock Management App Flutter
 
-A new Flutter project.
+This application allows you to manage a company's industrial stock, it allows you to create, modify, delete items, movements, suppliers, purchases and print and generate invoices in pdf.
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
